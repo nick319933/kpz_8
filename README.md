@@ -99,8 +99,7 @@ jobs:
 
 
 Перевіряю щоб Actions був успішний
-<img width="677" height="325" alt="image" src="https://github.com/user-attachments/assets/a6d090e5-9b51-489d-9f7a-c6e867ee443f" />
-
+![Screenshot](https://github.com/nick319933/kpz_8/blob/main/screenshots/500307480-a6d090e5-9b51-489d-9f7a-c6e867ee443f.png)
 Перевіряю що в packages з'явився docker-image
 
-<img width="964" height="113" alt="image" src="https://github.com/user-attachments/assets/b66c9136-aab9-4623-9ad6-bfd859ae698c" />
+![Screenshot](https://github.com/nick319933/kpz_8/blob/main/screenshots/500307694-b66c9136-aab9-4623-9ad6-bfd859ae698c.png)
